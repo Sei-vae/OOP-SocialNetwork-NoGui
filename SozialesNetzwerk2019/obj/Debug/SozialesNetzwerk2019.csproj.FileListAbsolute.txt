@@ -1,0 +1,14 @@
+C:\Users\Tim Tentakel\source\repos\SozialesNetzwerk2019\SozialesNetzwerk2019\bin\Debug\SozialesNetzwerk2019.exe.config
+C:\Users\Tim Tentakel\source\repos\SozialesNetzwerk2019\SozialesNetzwerk2019\bin\Debug\SozialesNetzwerk2019.exe
+C:\Users\Tim Tentakel\source\repos\SozialesNetzwerk2019\SozialesNetzwerk2019\bin\Debug\SozialesNetzwerk2019.pdb
+C:\Users\Tim Tentakel\source\repos\SozialesNetzwerk2019\SozialesNetzwerk2019\obj\Debug\SozialesNetzwerk2019.csprojAssemblyReference.cache
+C:\Users\Tim Tentakel\source\repos\SozialesNetzwerk2019\SozialesNetzwerk2019\obj\Debug\SozialesNetzwerk2019.csproj.CoreCompileInputs.cache
+C:\Users\Tim Tentakel\source\repos\SozialesNetzwerk2019\SozialesNetzwerk2019\obj\Debug\SozialesNetzwerk2019.exe
+C:\Users\Tim Tentakel\source\repos\SozialesNetzwerk2019\SozialesNetzwerk2019\obj\Debug\SozialesNetzwerk2019.pdb
+C:\Users\Sei\Desktop\Code\GITRESPO\SozialesNetzwerk2019\SozialesNetzwerk2019\bin\Debug\SozialesNetzwerk2019.exe.config
+C:\Users\Sei\Desktop\Code\GITRESPO\SozialesNetzwerk2019\SozialesNetzwerk2019\bin\Debug\SozialesNetzwerk2019.exe
+C:\Users\Sei\Desktop\Code\GITRESPO\SozialesNetzwerk2019\SozialesNetzwerk2019\bin\Debug\SozialesNetzwerk2019.pdb
+C:\Users\Sei\Desktop\Code\GITRESPO\SozialesNetzwerk2019\SozialesNetzwerk2019\obj\Debug\SozialesNetzwerk2019.csprojAssemblyReference.cache
+C:\Users\Sei\Desktop\Code\GITRESPO\SozialesNetzwerk2019\SozialesNetzwerk2019\obj\Debug\SozialesNetzwerk2019.csproj.CoreCompileInputs.cache
+C:\Users\Sei\Desktop\Code\GITRESPO\SozialesNetzwerk2019\SozialesNetzwerk2019\obj\Debug\SozialesNetzwerk2019.exe
+C:\Users\Sei\Desktop\Code\GITRESPO\SozialesNetzwerk2019\SozialesNetzwerk2019\obj\Debug\SozialesNetzwerk2019.pdb
